@@ -1,4 +1,4 @@
-package com.keyin.fullstack_springboot_java_react.controler;
+package com.keyin.fullstack_springboot_java_react.controller;
 import com.keyin.fullstack_springboot_java_react.exception.StudentNotFoundException;
 import com.keyin.fullstack_springboot_java_react.repository.StudentRepository;
 import com.keyin.fullstack_springboot_java_react.model.Student;
